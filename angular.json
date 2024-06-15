@@ -31,7 +31,12 @@
               }
             ],
             "styles": [
-              "src/styles.css"
+              "src/assets/css/animate.css",
+              "src/assets/css/owl.carousel.min.css",
+              "src/assets/css/owl.theme.default.min.css",
+              "src/assets/css/magnific-popup.css",
+              "src/assets/css/flaticon.css",
+              "src/assets/css/style.css"
             ],
             "scripts": [
               "src/assets/js/jquery.min.js",
