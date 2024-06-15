@@ -33,7 +33,14 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jquery.min.js",
+              "src/assets/js/jquery.dropotron.min.js",
+              "src/assets/js/browser.min.js",
+              "src/assets/js/breakpoints.min.js",
+              "src/assets/js/util.js",
+              "src/assets/js/main.js"
+            ]
           },
           "configurations": {
             "production": {
