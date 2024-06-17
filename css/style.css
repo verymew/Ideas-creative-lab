@@ -9,6 +9,13 @@
   max-width: 50%;
   margin-left: 50px;
 }
+
+@media screen and (max-width: 991px){
+	#logo-img{
+    max-width: 100%;
+    margin-left: 0px;
+  }
+}
 /**/
 
 :root {
