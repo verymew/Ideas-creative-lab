@@ -6,14 +6,17 @@
  */
 /*Originais*/
 #logo-img{
-  max-width: 50%;
-  margin-left: 50px;
+  max-width: 40%;
+  margin-left: 200px;
 }
 
 @media screen and (max-width: 991px){
 	#logo-img{
     max-width: 100%;
     margin-left: 0px;
+  }
+  #barcar{
+    display: flex;
   }
 }
 /**/
